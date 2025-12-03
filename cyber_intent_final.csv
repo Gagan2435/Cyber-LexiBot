@@ -1,0 +1,2001 @@
+scenario,intent_label,label
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Someone is stalking me online using PhonePe,CYBER_HARASSMENT,2
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Snapchat,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Google Pay,CYBER_FRAUD,0
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Twitter,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Twitter,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on YouTube,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+A scammer impersonated a LinkedIn officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Paytm account,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my PhonePe,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Twitter account,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Facebook,CYBER_HARASSMENT,2
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+I received a phishing link pretending to be WhatsApp,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on WhatsApp,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+I received a phishing link pretending to be Paytm,CYBER_FRAUD,0
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Paytm,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Telegram officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on Snapchat,CYBER_IDENTITY_THEFT,3
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone hacked my Facebook account and changed my password,CYBER_HACKING,1
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using LinkedIn,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Google Pay,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Someone hacked my YouTube account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Telegram,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Instagram,CYBER_FRAUD,0
+My private pictures were leaked on Snapchat,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Telegram account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be Facebook,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Telegram,CYBER_HARASSMENT,2
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+Ransomware encrypted all files on my Instagram,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Instagram,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+Ransomware encrypted all files on my LinkedIn,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+I received a phishing link pretending to be PhonePe,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on LinkedIn,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Instagram account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Someone is stalking me online using Twitter,CYBER_HARASSMENT,2
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+I received a phishing link pretending to be LinkedIn,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+Ransomware encrypted all files on my Telegram,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Google Pay,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Twitter officer and took my details,CYBER_FRAUD,0
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Google Pay officer and took my details,CYBER_FRAUD,0
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+Someone hacked my Paytm account and changed my password,CYBER_HACKING,1
+A scammer impersonated a Snapchat officer and took my details,CYBER_FRAUD,0
+I received a phishing link pretending to be YouTube,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Instagram,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Snapchat account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+Someone hacked my Snapchat account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+Someone hacked my Google Pay account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+Ransomware encrypted all files on my Google Pay,CYBER_FRAUD,0
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Facebook,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through LinkedIn,CYBER_FRAUD,0
+UPI payment fraud happened through WhatsApp,CYBER_FRAUD,0
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+A scammer impersonated a Instagram officer and took my details,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my YouTube account,GENERAL_CYBER_QUERY,5
+Ransomware encrypted all files on my Facebook,GENERAL_CYBER_QUERY,5
+A fake profile was created using my photos on Twitter,CYBER_IDENTITY_THEFT,3
+My private pictures were leaked on Facebook,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+Ransomware encrypted all files on my WhatsApp,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through Telegram,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A scammer impersonated a PhonePe officer and took my details,CYBER_FRAUD,0
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+Ransomware encrypted all files on my Snapchat,GENERAL_CYBER_QUERY,5
+A scammer impersonated a Facebook officer and took my details,CYBER_FRAUD,0
+A scammer impersonated a Paytm officer and took my details,CYBER_FRAUD,0
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my PhonePe account,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Paytm,CYBER_FRAUD,0
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my Google Pay account,CYBER_FRAUD,0
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A fake profile was created using my photos on PhonePe,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Twitter,CYBER_FRAUD,0
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Instagram,CYBER_HARASSMENT,2
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using WhatsApp,CYBER_HARASSMENT,2
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+A fake profile was created using my photos on YouTube,CYBER_IDENTITY_THEFT,3
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+Someone hacked my Telegram account and changed my password,CYBER_HACKING,1
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+UPI payment fraud happened through YouTube,CYBER_FRAUD,0
+UPI payment fraud happened through PhonePe,CYBER_FRAUD,0
+A fake profile was created using my photos on Telegram,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+UPI payment fraud happened through Snapchat,CYBER_FRAUD,0
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
+Someone posted obscene content using my Facebook account,GENERAL_CYBER_QUERY,5
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+Someone is stalking me online using YouTube,CYBER_HARASSMENT,2
+My private pictures were leaked on PhonePe,CYBER_PRIVACY_VIOLATION,4
+My private pictures were leaked on Paytm,CYBER_FRAUD,0
+A scammer impersonated a YouTube officer and took my details,CYBER_FRAUD,0
+Someone hacked my WhatsApp account and changed my password,CYBER_HACKING,1
+Someone hacked my LinkedIn account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on Facebook,CYBER_IDENTITY_THEFT,3
+Someone hacked my Twitter account and changed my password,CYBER_HACKING,1
+Someone posted obscene content using my WhatsApp account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Twitter,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Instagram,GENERAL_CYBER_QUERY,5
+Someone is stalking me online using Google Pay,CYBER_FRAUD,0
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+Ransomware encrypted all files on my Paytm,CYBER_FRAUD,0
+My private pictures were leaked on Telegram,CYBER_PRIVACY_VIOLATION,4
+Someone is stalking me online using Snapchat,CYBER_HARASSMENT,2
+Someone hacked my PhonePe account and changed my password,CYBER_HACKING,1
+A fake profile was created using my photos on WhatsApp,CYBER_IDENTITY_THEFT,3
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+A loan app leaked my contact list and threatened me,CYBER_PRIVACY_VIOLATION,4
+Ransomware encrypted all files on my YouTube,GENERAL_CYBER_QUERY,5
+Someone hacked my Instagram account and changed my password,CYBER_HACKING,1
+A scammer impersonated a WhatsApp officer and took my details,CYBER_FRAUD,0
+My private pictures were leaked on LinkedIn,CYBER_PRIVACY_VIOLATION,4
+Someone posted obscene content using my LinkedIn account,GENERAL_CYBER_QUERY,5
+I received a phishing link pretending to be Google Pay,CYBER_FRAUD,0
