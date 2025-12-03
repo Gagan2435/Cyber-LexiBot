@@ -1,107 +1,60 @@
-Cyber LexiBot — AI-Powered Cyber Law Assistant
+Cyber LexiBot — AI-Based Cyber Law Assistant
 
-Cyber LexiBot is an AI-based system designed to analyze cyber crime–related queries, classify the type of cyber incident, extract important details, and map them to relevant sections of the Indian cyber laws. The system also provides clear recommended actions and reporting guidelines for users.
+Cyber LexiBot is an intelligent system that analyzes user-reported cyber incidents, classifies the type of issue, extracts key information, retrieves relevant Indian cyber-law sections, and provides structured guidance for further action.
 
-Features
-1. Intent Classification
+Key Capabilities
+Intent Classification
 
-The system identifies the type of cyber issue using a transformer-based classifier trained on a curated dataset.
-Supported categories include:
+A fine-tuned transformer model categorizes user queries into:
+Cyber Fraud, Cyber Hacking, Cyber Harassment, Cyber Identity Theft, Cyber Privacy Violation, or General Cyber Queries.
 
-Cyber Fraud
+Legal Section Retrieval
 
-Cyber Hacking
+Sentence-BERT embeddings combined with a FAISS similarity index retrieve the most relevant sections from the Information Technology Act based on the user’s query.
 
-Cyber Harassment
+Information Extraction
 
-Cyber Identity Theft
+Using spaCy, the system identifies essential details such as platforms involved, monetary amounts, locations, and person names to refine the final response.
 
-Cyber Privacy Violation
+Actionable Cyber-Guidance
 
-General Cyber Query
+The system provides practical next steps, evidence-collection advice, and official reporting links based on the identified incident type.
 
-2. Law Section Retrieval using Sentence-BERT + FAISS
+System Workflow (Summary)
 
-All law sections are converted into vector embeddings using Sentence-BERT.
+User input is processed.
 
-FAISS is used to perform efficient similarity search and retrieve the most relevant sections of the IT Act based on the user’s query.
+The intent classifier predicts the type of incident.
 
-3. Entity Extraction (spaCy)
+Entities and other useful details are extracted.
 
-The system automatically extracts meaningful details such as:
+Similar legal sections are retrieved using Sentence-BERT + FAISS.
 
-Social media or banking platforms
-
-Money amounts
-
-Locations
-
-Names of individuals
-
-These help in generating more personalized responses.
-
-4. Actionable Legal Guidance
-
-Based on the predicted intent, the system provides:
-
-Recommended steps
-
-Evidence collection instructions
-
-Official reporting links
-
-Basic legal guidance aligned with Indian cyber laws
-
-5. Safety Awareness
-
-For high-risk or distress-related messages, the system generates an additional safety alert encouraging the user to contact authorities immediately.
-
-How It Works (System Pipeline)
-
-The user inputs a cyber-related problem.
-
-The text is classified into one of the predefined cyber intent categories.
-
-Entities such as platforms, money amounts, locations, and names are extracted.
-
-Sentence-BERT converts the query into an embedding, and FAISS retrieves the closest matching legal sections.
-
-A final structured response is generated, including detected intent, extracted details, legal references, and recommended user actions.
+A structured and legally aligned response is generated.
 
 Model Evaluation
 
-The intent classification model was evaluated using a 2000-row test set.
-Metrics include:
+The classification model was evaluated on a 2000-record test set.
+Metrics include accuracy, precision, recall, F1-score, and a confusion matrix.
+The final model achieved approximately 84% accuracy after applying realistic noise-based evaluation.
 
-Accuracy
+Running the Project
 
-Precision
+Install all required Python libraries.
 
-Recall
-
-F1-score
-
-Confusion matrix
-
-The model achieved an accuracy of approximately 84% after introducing light noise-based evaluation for a realistic result.
-
-How to Run the Project
-
-Install required libraries (PyTorch, transformers, spaCy, Sentence-BERT, FAISS, NumPy, Pandas, etc.)
-
-Run the main file:
+Start the system using:
 
 python lexibot_core.py
 
 
-The chatbot will start in the terminal, and you can enter cyber-related queries directly.
+The chatbot will open in the terminal and accept user queries.
 
-Future Enhancements
+Future Improvements
 
-Web-based interface using Streamlit or React
+Web-based interface
 
-More advanced NER for identifying threats, dates, and relationships
+Enhanced named-entity recognition
 
-Support for Hindi and multilingual cyber law queries
+Support for multilingual queries
 
-Integration with cybercrime reporting platforms
+Integration with automated complaint-reporting workflows
